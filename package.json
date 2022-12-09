@@ -41,7 +41,7 @@
     "better-ajv-errors": "~1.2.0",
     "browser-specs": "~3.13.0",
     "c8": "~7.11.2",
-    "chalk": "~5.0.1",
+    "chalk": "~5.2.0",
     "chalk-template": "~0.4.0",
     "compare-versions": "~4.1.1",
     "deep-diff": "~1.0.2",
